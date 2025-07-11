@@ -90,3 +90,60 @@
     border-radius: 8px;
     margin-top: 20px;
   }
+  /* banner section end */
+   .action_section{
+        width:80%;
+        margin:auto;
+        margin-top: 130px;
+  
+       
+      
+    }
+    .action_content{
+      padding: 50px 0px 50px 0px;
+    }
+    .coding_system{
+       width:80%;
+       margin:auto;
+       
+    }
+   
+    .coding_system{
+        
+     display: flex;
+     justify-content: space-between;
+    }
+    .coding_content{
+
+        text-align: center;
+        margin-bottom: 40px;     
+    }
+
+    .action_content h2{
+      font-size: 42px;
+      font-weight:bold ;
+      margin-bottom: 20px;
+     font-family: "Raleway", sans-serif;
+     margin-top: 50px;
+    }
+    .action_content p{
+      color:#25243280;
+      font-size: 20px;
+      margin-top: 20px;
+     font-family: "Raleway", sans-serif;
+     width: 450px;
+    }
+    .action_img{
+        border-radius: 20px;
+        padding-left: 20px;
+    }
+    .lunch{
+      margin-top: 25px;
+      padding: 14px 7px 14px 7px;
+      color:#fff;
+      font-size: 16px;
+     font-family: "Raleway", sans-serif;
+      border: 1ps solid #4E47FF;
+      background-color: #4E47FF;
+      border-radius: 8px;
+    }
