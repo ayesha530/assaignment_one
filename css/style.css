@@ -25,14 +25,17 @@
   margin-left: 10px;
   text-align: center;
   text-transform: capitalize;
-  margin-top: 5px;
   font-size: 34px;
   font-family: "Inter", sans-serif;
   color:#4E47FF;
   font-weight: black;
+  margin-top: 15px;
   }
   .nav{
     width:50%;
+  }
+  .sign_up_button{
+    margin-top: 20px;
   }
   .signUP{
     font-size: 16px;
@@ -45,6 +48,7 @@
     width:132px;
     height: 48px;
     cursor: pointer;
+    
   
   }
   .signUP:hover{
