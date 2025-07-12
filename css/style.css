@@ -44,7 +44,11 @@
     font-family: "Raleway", sans-serif;
     width:132px;
     height: 48px;
+    cursor: pointer;
   
+  }
+  .signUP:hover{
+    background-color: #000;
   }
   header{
     /* display: flex; */
@@ -98,6 +102,10 @@
     height: 48px;
     border-radius: 8px;
     margin-top: 20px;
+    cursor: pointer;
+  }
+  .focused:hover{
+    background-color: #000;
   }
   /* banner section end */
    .action_section{
@@ -156,6 +164,10 @@
       border: 1ps solid #4E47FF;
       background-color: #4E47FF;
       border-radius: 8px;
+      cursor: pointer;
+    }
+    .lunch:hover{
+      background-color: #000;
     }
     /* action section end */
     /* focus secton start */
@@ -273,9 +285,13 @@ line-height: 26px;
       border: 1ps solid #4E47FF;
       background-color: #4E47FF;
       border-radius: 8px;
+       cursor: pointer;
 
 }
 
+.ready_button:hover{
+  background-color: #000;
+}
 .ready_img{
     margin-top: 30px;
     margin:auto;
@@ -377,7 +393,11 @@ line-height: 26px;
       background-color: #4E47FF;
       border-radius: 8px;
       width: 100%;
+       cursor: pointer;
      
+  }
+  .touchButton:hover{
+    background-color: #000;
   }
 /* form section end */
 /* join section start */
