@@ -87,6 +87,7 @@
   font-weight: bold;
   margin-bottom: 10px;
   font-family: "Raleway", sans-serif;
+  margin-bottom: 30px;
   }
   .focused{
     margin:auto;
@@ -101,7 +102,7 @@
     width: 174px;
     height: 48px;
     border-radius: 8px;
-    margin-top: 20px;
+    margin-top: 35px;
     cursor: pointer;
   }
   .focused:hover{
